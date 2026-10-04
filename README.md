@@ -94,7 +94,7 @@
 
 Local AI • Voice • Automation • Python
 
-<a href="https://github.com/Suresh93-pro">VIEW PROJECT →</a>
+<a href="https://github.com/Suresh93-pro/MAYA-AI-V100">VIEW PROJECT →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +116,7 @@ Spring Boot • MySQL • Security • Analytics
 
 C • Data Structures • Algorithms
 
-<a href="https://github.com/Suresh93-pro">VIEW PROJECT →</a>
+<a href="https://github.com/Suresh93-pro/DSA-Algorithms">VIEW PROJECT →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -126,7 +126,7 @@ C • Data Structures • Algorithms
 
 Trading Platform • AI Chatbot • Hotel Reservation
 
-<a href="https://github.com/Suresh93-pro">VIEW PROJECTS →</a>
+<a href="https://github.com/Suresh93-pro/CodeAlpha_Java_Internship">VIEW PROJECTS →</a>
 
 </td>
 </tr>
