@@ -31,7 +31,7 @@
 </td>
 <td width="38%" align="center">
 
-<img src="assets/profile-circle.png" width="230" height="230" alt="G Suresh Reddy" />
+<img src="https://github.com/Suresh93-pro/Suresh93-pro/raw/refs/heads/main/assets/profile.png" width="230" height="230" alt="G Suresh Reddy" />
 
 <br><br>
 
