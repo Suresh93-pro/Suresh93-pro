@@ -1,8 +1,10 @@
 <div align="center">
 
-# ⚡ G SURESH REDDY
+<img src="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets/profile-dashboard.svg" alt="G Suresh Reddy — Cyberpunk GitHub Dashboard" width="100%" />
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF2BD6&center=true&vCenter=true&width=700&lines=Software+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Builder;DSA+%7C+Java+%7C+C;Building+MAYA+AI" alt="Typing SVG" />
+### ⚡ G SURESH REDDY
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF2BD6&center=true&vCenter=true&width=700&lines=Software+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Builder;DSA+%7C+Java+%7C+C;Building+MAYA+AI" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Suresh93-pro&label=PROFILE+VIEWS&color=ff2bd6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Suresh93-pro?label=FOLLOWERS&style=for-the-badge&color=7b2cff" alt="Followers" />
@@ -10,10 +12,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img align="right" width="330" src="https://avatars.githubusercontent.com/u/268791437?v=4" alt="G Suresh Reddy" />
 
 ## 👨‍💻 ABOUT ME
 
@@ -23,10 +21,6 @@
 🧠 Learning **DSA, Java, C, OOP & Cybersecurity**  
 🚀 Interested in **AI • Automation • Full-Stack Development • Security**  
 🔥 Turning ideas into real projects
-
-<br clear="right"/>
-
-</div>
 
 ---
 
@@ -88,12 +82,9 @@ Collection of my CodeAlpha internship projects and tasks.
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Suresh93-pro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh93-pro&layout=compact&hide_border=true&langs_count=8&theme=radical" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh93-pro&hide_border=true&theme=radical" />
 
@@ -125,15 +116,9 @@ Collection of my CodeAlpha internship projects and tasks.
 
 <div align="center">
 
-<a href="https://github.com/Suresh93-pro">
-<img src="https://img.shields.io/badge/GitHub-Suresh93--pro-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/g-suresh-reddy-5232b941/">
-<img src="https://img.shields.io/badge/LinkedIn-G%20Suresh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/__.suresh_197_/">
-<img src="https://img.shields.io/badge/Instagram-__.suresh__197_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://github.com/Suresh93-pro"><img src="https://img.shields.io/badge/GitHub-Suresh93--pro-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/g-suresh-reddy-5232b941/"><img src="https://img.shields.io/badge/LinkedIn-G%20Suresh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.instagram.com/__.suresh_197_/"><img src="https://img.shields.io/badge/Instagram-__.suresh__197_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -142,7 +127,5 @@ Collection of my CodeAlpha internship projects and tasks.
 <div align="center">
 
 ### ⚡ BUILD. BREAK. LEARN. REPEAT. ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 
 </div>
