@@ -131,6 +131,9 @@ Collection of my CodeAlpha internship projects and tasks.
 <a href="https://www.linkedin.com/in/g-suresh-reddy-5232b941/">
 <img src="https://img.shields.io/badge/LinkedIn-G%20Suresh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
+<a href="https://www.instagram.com/__.suresh_197_/">
+<img src="https://img.shields.io/badge/Instagram-__.suresh__197_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
