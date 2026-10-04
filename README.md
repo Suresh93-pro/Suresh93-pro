@@ -2,10 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets/profile-banner.svg" width="100%" alt="G Suresh Reddy - neon cyberpunk GitHub profile"/>
 
+<table>
+<tr>
+<td align="center" width="28%">
+<img src="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets.jpg" width="180" alt="G Suresh Reddy"/>
+</td>
+<td align="left">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF2BD6&center=true&vCenter=true&width=700&lines=Software+Developer;Cybersecurity+Enthusiast;AI+%26+Automation+Builder;DSA+%7C+Java+%7C+C;Building+MAYA+AI" alt="Typing animation"/>
 
 <img src="https://komarev.com/ghpvc/?username=Suresh93-pro&label=PROFILE+VIEWS&color=ff2bd6&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Suresh93-pro?label=FOLLOWERS&style=for-the-badge&color=7b2cff" alt="Followers"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
