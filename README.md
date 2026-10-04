@@ -31,7 +31,7 @@
 </td>
 <td width="38%" align="center">
 
-<img src="assets/suresh-profile.jpg" width="230" height="230" style="border-radius:50%;" alt="G Suresh Reddy" />
+<img src="assets.jpg" width="230" height="230" style="border-radius:50%;" alt="G Suresh Reddy" />
 
 <br><br>
 
