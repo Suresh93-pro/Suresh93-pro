@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420"><rect width="1200" height="420" fill="#08000f"/><path d="M0 320 Q300 230 600 300 T1200 280" fill="none" stroke="#ff3fd4" stroke-width="3"/><path d="M0 350h1200M0 380h1200" stroke="#ff63db" opacity=".4"/><rect x="30" y="25" width="1140" height="370" rx="18" fill="none" stroke="#8b5cff" stroke-width="2"/><text x="70" y="75" fill="#c9b7ff" font-family="monospace" font-size="14">SURESH93-PRO / PROFILE</text><text x="70" y="150" fill="white" font-family="Arial" font-size="48" font-weight="bold">G SURESH REDDY</text><text x="72" y="188" fill="#ff73dd" font-family="Arial" font-size="20">B.Tech CSE • Cybersecurity @ SRMIST</text><text x="72" y="223" fill="#ddd3ff" font-family="monospace" font-size="16">SOFTWARE DEVELOPER • AI • DSA • AUTOMATION</text><text x="72" y="270" fill="white" font-family="Arial" font-size="25" font-weight="bold">Hey there, I’m Suresh</text><text x="72" y="300" fill="#ff9bea" font-family="Arial" font-size="18">Open Source Enthusiast</text><rect x="72" y="325" width="130" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="137" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">FOLLOWERS</text><rect x="212" y="325" width="105" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="264" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">STARS</text><rect x="327" y="325" width="140" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="397" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">PROFILE VIEWS</text><circle cx="1010" cy="160" r="94" fill="#0b0618" stroke="#ff4fd8" stroke-width="7"/><text x="1010" y="155" text-anchor="middle" fill="#ff8be9" font-family="Arial" font-size="42" font-weight="bold">SR</text><text x="1010" y="185" text-anchor="middle" fill="#c8a9ff" font-family="monospace" font-size="12">SURESH93-PRO</text><text x="1010" y="220" text-anchor="middle" fill="white" font-family="Arial" font-size="13">BUILD • LEARN • CREATE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <clipPath id="avatar"><circle cx="1010" cy="160" r="88"/></clipPath>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" fill="#08000f"/>
+<path d="M0 320 Q300 230 600 300 T1200 280" fill="none" stroke="#ff3fd4" stroke-width="3" opacity=".9"/>
+<path d="M0 350h1200M0 380h1200" stroke="#ff63db" opacity=".35"/>
+<rect x="30" y="25" width="1140" height="370" rx="18" fill="none" stroke="#8b5cff" stroke-width="2"/>
+<text x="70" y="75" fill="#c9b7ff" font-family="monospace" font-size="14">SURESH93-PRO / PROFILE</text>
+<text x="70" y="150" fill="white" font-family="Arial" font-size="48" font-weight="bold">G SURESH REDDY</text>
+<text x="72" y="188" fill="#ff73dd" font-family="Arial" font-size="20">B.Tech CSE • Cybersecurity @ SRMIST</text>
+<text x="72" y="223" fill="#ddd3ff" font-family="monospace" font-size="16">SOFTWARE DEVELOPER • AI • DSA • AUTOMATION</text>
+<text x="72" y="270" fill="white" font-family="Arial" font-size="25" font-weight="bold">Hey there, I’m Suresh</text>
+<text x="72" y="300" fill="#ff9bea" font-family="Arial" font-size="18">Open Source Enthusiast</text>
+<rect x="72" y="325" width="130" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="137" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">FOLLOWERS</text>
+<rect x="212" y="325" width="105" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="264" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">STARS</text>
+<rect x="327" y="325" width="140" height="34" rx="7" fill="#190b25" stroke="#ff63db"/><text x="397" y="347" text-anchor="middle" fill="white" font-family="Arial" font-size="12">PROFILE VIEWS</text>
+<circle cx="1010" cy="160" r="96" fill="#0b0618" stroke="#ff4fd8" stroke-width="7" filter="url(#glow)"/>
+<image href="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets.jpg" x="922" y="72" width="176" height="176" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+<circle cx="1010" cy="160" r="90" fill="none" stroke="#ff9bea" stroke-width="2"/>
+<text x="1010" y="285" text-anchor="middle" fill="#c8a9ff" font-family="monospace" font-size="12">SURESH93-PRO</text>
+<text x="1010" y="307" text-anchor="middle" fill="white" font-family="Arial" font-size="13">BUILD • LEARN • CREATE</text>
+</svg>
