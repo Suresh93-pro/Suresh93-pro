@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="460" viewBox="0 0 460 460">
+<defs>
+  <clipPath id="circle"><circle cx="230" cy="230" r="215"/></clipPath>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FF1493"/>
+    <stop offset="50%" stop-color="#9B5CFF"/>
+    <stop offset="100%" stop-color="#FF4FD8"/>
+  </linearGradient>
+</defs>
+<circle cx="230" cy="230" r="219" fill="none" stroke="#FF1493" stroke-width="10" opacity=".9" filter="url(#glow)"/>
+<circle cx="230" cy="230" r="215" fill="#0D0016" stroke="url(#neon)" stroke-width="8"/>
+<image href="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets.jpg" x="15" y="15" width="430" height="430" preserveAspectRatio="xMidYMid slice" clip-path="url(#circle)"/>
+<circle cx="230" cy="230" r="215" fill="none" stroke="url(#neon)" stroke-width="6"/>
+</svg>
