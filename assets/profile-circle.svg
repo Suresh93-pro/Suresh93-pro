@@ -6,6 +6,6 @@
 </defs>
 <circle cx="230" cy="230" r="220" fill="none" stroke="#FF1493" stroke-width="9" opacity=".9" filter="url(#glow)"/>
 <circle cx="230" cy="230" r="214" fill="#0D0016" stroke="url(#neon)" stroke-width="8"/>
-<image href="https://github.com/Suresh93-pro.png?size=460" x="20" y="20" width="420" height="420" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+<image href="profile-circle.jpg" x="20" y="20" width="420" height="420" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
 <circle cx="230" cy="230" r="210" fill="none" stroke="url(#neon)" stroke-width="5"/>
 </svg>
