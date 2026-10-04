@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Suresh93-pro/Suresh93-pro/main/assets/suresh-profile.svg" alt="G Suresh Reddy" />
+<img align="right" width="330" src="https://avatars.githubusercontent.com/u/268791437?v=4" alt="G Suresh Reddy" />
 
 ## 👨‍💻 ABOUT ME
 

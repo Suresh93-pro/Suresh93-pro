@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050817"/><stop offset="1" stop-color="#10143a"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8d5cff"/><stop offset=".5" stop-color="#ff4bd8"/><stop offset="1" stop-color="#5ff8ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="avatar"><circle cx="180" cy="175" r="100"/></clipPath>
+</defs>
+<rect width="1200" height="720" rx="26" fill="url(#bg)" stroke="#3c4fd6" stroke-width="3"/>
+<path d="M25 70H1175M25 510H1175" stroke="#26306d" stroke-width="2"/>
+<!-- left card -->
+<rect x="25" y="25" width="320" height="460" rx="18" fill="#0a0f29" stroke="#7057ff" stroke-width="2"/>
+<circle cx="180" cy="175" r="112" fill="#17165a" stroke="url(#neon)" stroke-width="7" filter="url(#glow)"/>
+<image href="https://avatars.githubusercontent.com/u/268791437?v=4" x="80" y="75" width="200" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+<text x="180" y="325" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="700" text-anchor="middle">G SURESH REDDY</text>
+<text x="180" y="352" fill="#b7bdf8" font-family="Arial,sans-serif" font-size="15" text-anchor="middle">B.Tech CSE • Cybersecurity</text>
+<text x="180" y="379" fill="#65f4ff" font-family="Arial,sans-serif" font-size="14" text-anchor="middle">SRMIST • Software Developer</text>
+<rect x="65" y="405" width="230" height="42" rx="10" fill="#151b43" stroke="#ff4bd8"/>
+<text x="180" y="432" fill="#ff8be9" font-family="Arial,sans-serif" font-size="15" text-anchor="middle">⚡ BUILD • LEARN • CREATE</text>
+<!-- visual map -->
+<rect x="365" y="25" width="485" height="460" rx="18" fill="#070c25" stroke="#43dff4" stroke-width="2"/>
+<text x="390" y="57" fill="#8d9cff" font-family="monospace" font-size="13">VISUAL.MAP / MAYA_AI</text>
+<rect x="390" y="78" width="435" height="345" rx="8" fill="#050a1e" stroke="#55eaff" stroke-width="2"/>
+<g fill="#ff83e8" filter="url(#glow)">
+<circle cx="485" cy="190" r="3"/><circle cx="510" cy="170" r="3"/><circle cx="535" cy="150" r="3"/><circle cx="560" cy="170" r="3"/><circle cx="585" cy="195" r="3"/><circle cx="610" cy="220" r="3"/><circle cx="635" cy="245" r="3"/><circle cx="660" cy="270" r="3"/>
+<circle cx="475" cy="280" r="3"/><circle cx="500" cy="300" r="3"/><circle cx="525" cy="320" r="3"/><circle cx="550" cy="300" r="3"/><circle cx="575" cy="275" r="3"/><circle cx="600" cy="250" r="3"/><circle cx="625" cy="225" r="3"/><circle cx="650" cy="205" r="3"/><circle cx="675" cy="190" r="3"/>
+</g>
+<text x="607" y="385" fill="#9af7ff" font-family="monospace" font-size="12" text-anchor="middle">AI • CODE • SECURITY • AUTOMATION</text>
+<!-- system info -->
+<rect x="870" y="25" width="305" height="460" rx="18" fill="#0a0f29" stroke="#7057ff" stroke-width="2"/>
+<text x="895" y="58" fill="#8d9cff" font-family="monospace" font-size="13">SYSTEM.INFO</text>
+<g font-family="monospace" font-size="14"><text x="895" y="95" fill="#ff4bd8">Subject.</text><text x="980" y="95" fill="#e8eaff">G Suresh Reddy</text>
+<text x="895" y="125" fill="#ff4bd8">Role.</text><text x="980" y="125" fill="#e8eaff">Developer</text>
+<text x="895" y="155" fill="#ff4bd8">Origin.</text><text x="980" y="155" fill="#e8eaff">SRMIST</text>
+<text x="895" y="185" fill="#ff4bd8">Education.</text><text x="995" y="185" fill="#e8eaff">B.Tech CSE</text>
+<text x="895" y="215" fill="#ff4bd8">Status.</text><text x="980" y="215" fill="#5ff8ff">ONLINE / BUILDING</text>
+<text x="895" y="255" fill="#ff4bd8">ToolChain.</text><text x="895" y="282" fill="#e8eaff">Java • C • Python</text><text x="895" y="309" fill="#e8eaff">Spring • MySQL • Git</text><text x="895" y="336" fill="#e8eaff">AI • Cybersecurity</text>
+<text x="895" y="380" fill="#ff4bd8">Core.</text><text x="895" y="407" fill="#b9c1ff">MAYA AI</text><text x="895" y="431" fill="#b9c1ff">StockSphere</text><text x="895" y="455" fill="#b9c1ff">DSA Algorithms</text></g>
+<!-- stats -->
+<g transform="translate(25,540)"><rect width="1150" height="145" rx="18" fill="#0a0f29" stroke="#2d3b91"/>
+<text x="25" y="35" fill="#67f4ff" font-family="monospace" font-size="13">GITHUB.STATUS / CURRENT</text>
+<text x="25" y="82" fill="#fff" font-family="Arial" font-size="25" font-weight="700">Open Source</text><text x="25" y="108" fill="#9ea8df" font-family="Arial" font-size="13">Projects • DSA • AI • Cybersecurity</text>
+<text x="365" y="82" fill="#fff" font-family="Arial" font-size="25" font-weight="700">MAYA AI</text><text x="365" y="108" fill="#9ea8df" font-family="Arial" font-size="13">Voice • Automation • Local AI</text>
+<text x="690" y="82" fill="#fff" font-family="Arial" font-size="25" font-weight="700">CodeAlpha</text><text x="690" y="108" fill="#9ea8df" font-family="Arial" font-size="13">Internship Projects</text>
+<text x="965" y="82" fill="#fff" font-family="Arial" font-family="Arial" font-size="25" font-weight="700">”</text><text x="965" y="108" fill="#9ea8df" font-family="Arial" font-size="13">Always Learning</text></g>
+</svg>
