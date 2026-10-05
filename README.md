@@ -166,7 +166,7 @@ Trading Platform • AI Chatbot • Hotel Reservation
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/g-suresh-reddy-5232b941/">
+<a href="https://www.linkedin.com/in/g-suresh-reddy-5232b9414/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
