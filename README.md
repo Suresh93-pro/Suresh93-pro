@@ -140,9 +140,13 @@ Trading Platform • AI Chatbot • Hotel Reservation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suresh93-pro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0016&title_color=FF4FD8&icon_color=9B5CFF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suresh93-pro&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D0016&title_color=FF4FD8&icon_color=9B5CFF&text_color=FFFFFF&border_radius=18&cache_seconds=21600" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh93-pro&layout=compact&langs_count=8&hide_border=true&bg_color=0D0016&title_color=FF4FD8&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh93-pro&layout=compact&langs_count=8&hide_border=true&bg_color=0D0016&title_color=FF4FD8&text_color=FFFFFF&border_radius=18&cache_seconds=21600" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Suresh93-pro&theme=radical&hide_border=true&background=0D0016&stroke=9B5CFF&ring=FF4FD8&fire=FF4FD8&currStreakLabel=FF4FD8&sideLabels=FFFFFF&dates=FFFFFF" width="78%" />
 
 </div>
 
