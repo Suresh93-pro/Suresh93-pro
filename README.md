@@ -14,6 +14,8 @@
 
 </div>
 
+<div align="center">
+
 <table>
 <tr>
 <td width="62%" valign="top">
@@ -42,7 +44,7 @@
 </tr>
 </table>
 
----
+## 🧠 ABOUT ME
 
 ## 🧠 ABOUT ME
 
